@@ -545,6 +545,61 @@
         "txPower": 8
     },
     {
+        "name": "AM103L",
+        "band": "CN470",
+        "txPower": 9.15
+    },
+    {
+        "name": "AM103L",
+        "band": "EU868",
+        "txPower": 10
+    },
+    {
+        "name": "AM103L",
+        "band": "IN865",
+        "txPower": 16
+    },
+    {
+        "name": "AM103L",
+        "band": "RU864",
+        "txPower": 10
+    },
+    {
+        "name": "AM103L",
+        "band": "US915",
+        "txPower": 12
+    },
+    {
+        "name": "AM103L",
+        "band": "AU915",
+        "txPower": 12
+    },
+    {
+        "name": "AM103L",
+        "band": "KR920",
+        "txPower": 6
+    },
+    {
+        "name": "AM103L",
+        "band": "AS923-1",
+        "txPower": 8
+    },
+    {
+        "name": "AM103L",
+        "band": "AS923-2",
+        "txPower": 8
+    },
+    {
+        "name": "AM103L",
+        "band": "AS923-3",
+        "txPower": 8
+    },
+    {
+        "name": "AM103L",
+        "band": "AS923-4",
+        "txPower": 8
+    },
+    {
         "name": "AM102",
         "band": "CN470",
         "txPower": 11.15
@@ -596,6 +651,61 @@
     },
     {
         "name": "AM102",
+        "band": "AS923-4",
+        "txPower": 6
+    },
+    {
+        "name": "AM102L",
+        "band": "CN470",
+        "txPower": 11.15
+    },
+    {
+        "name": "AM102L",
+        "band": "EU868",
+        "txPower": 14
+    },
+    {
+        "name": "AM102L",
+        "band": "IN865",
+        "txPower": 20
+    },
+    {
+        "name": "AM102L",
+        "band": "RU864",
+        "txPower": 14
+    },
+    {
+        "name": "AM102L",
+        "band": "US915",
+        "txPower": 12
+    },
+    {
+        "name": "AM102L",
+        "band": "AU915",
+        "txPower": 12
+    },
+    {
+        "name": "AM102L",
+        "band": "KR920",
+        "txPower": 4
+    },
+    {
+        "name": "AM102L",
+        "band": "AS923-1",
+        "txPower": 6
+    },
+    {
+        "name": "AM102L",
+        "band": "AS923-2",
+        "txPower": 6
+    },
+    {
+        "name": "AM102L",
+        "band": "AS923-3",
+        "txPower": 6
+    },
+    {
+        "name": "AM102L",
         "band": "AS923-4",
         "txPower": 6
     },
